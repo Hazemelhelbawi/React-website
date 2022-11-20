@@ -1,0 +1,12 @@
+.aboutSection{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column ;
+    justify-content: center;
+}
+
+.headerSection h1{
+    font-size: 4.5rem;
+}

@@ -1,0 +1,13 @@
+.Hometitle{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.Hometitle h1{
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 4.2rem;
+
+
+}

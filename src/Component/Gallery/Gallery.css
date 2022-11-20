@@ -1,0 +1,36 @@
+.gallery img {
+    cursor: pointer;
+    overflow: hidden;
+
+}
+
+.col-md-4 .gallerydata .productinformation:hover{
+    transform: scale(1.05)!important;
+    transition: all 1s;
+}
+.gallery img:hover {
+    transform: rotate(360deg) !important;
+    transition: all 5s;
+
+
+}
+.gallery{
+    overflow: hidden;
+}
+.gallerydata{
+    overflow: hidden;
+
+}
+.galleryitem{
+    overflow: hidden;
+
+}
+.gallerytitle h1{
+    font-size: 5rem ;
+
+}
+h1:hover{
+color: rgb(63, 156, 187) !important;
+transition: all 1s;
+
+}
